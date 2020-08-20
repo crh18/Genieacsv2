@@ -1,0 +1,11 @@
+dokho15:
+    password: b58xlh19J1526@
+    roles: [admin]
+
+edier:
+    password: b58xlh19D1512
+    roles: [admin]
+
+user:
+    password: enlacE15@
+    roles: [view]
